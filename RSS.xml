@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal de Pedrofega</title>
+        <link>http://prueba321-lmysgi.apps.ca-central-1.starter.openshift-online.com</link>
+        <description>Noticias de actualidad</description>
+
+        <item>
+            <title>Permanecer despierto toda la noche y viajar en el baúl de un automóvil: los primeros días de Tekken</title>    
+            <link>https://www.polygon.com/features/2019/12/2/20992483/staying-up-all-night-and-riding-in-a-car-trunk-the-early-days-of-tekken</link>
+            <description>Asi son los primeros dias del juego</description>
+        </item>
+        <item>
+            <title>GTFO is like a darker and deadlier Left 4 Dead</title>    
+            <link>https://www.polygon.com/2019/12/9/21002850/gtfo-left-4-dead-co-op-fps-early-access-release-date-price</link>
+            <description>Datos sobre el nuevo lanzamiento de 10 Chambers Collective</description>
+        </item>
+        <item>
+            <title>GOTY 2019 #5: Sekiro: Shadows Die Twice</title>    
+            <link>https://www.polygon.com/2019/12/9/20997549/sekiro-shadows-die-twice-best-games-of-the-year-goty-2019-fromsoftware</link>
+            <description>Review del GOTY #5 delaño 2019</description>
+        </item>
+    <channel>
