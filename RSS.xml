@@ -28,5 +28,16 @@
             <day>Saturday</day>
             <day>Sunday</day>
         </skipDays>
+        <ttl>60</ttl>
+        <lastBuildDate>Mon, 13 Jan 2020</lastBuildDate>
+        <skipHours>
+            <hour>17</hour>
+            <hour>18</hour>
+            <hour>19</hour>
+            <hour>20</hour>
+            <hour>21</hour>
+            <hour>22</hour>
+            <hour>23</hour>
+          </skipHours>
     </channel>
 </rss>
