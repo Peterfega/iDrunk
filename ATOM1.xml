@@ -3,7 +3,7 @@
         <title type="text">ATOM TEST</title>
         <id>http://prueba321-lmysgi.apps.ca-central-1.starter.openshift-online.com</id>
         <link rel="self" type="application/atom+xml" href="http://prueba123-lmysgi.apps.ca-central-1.starter.openshift-online.com/ATOM1.xml" />
-        <link rel="alternate" type="text/html" href="http://www.mipagina.es"/>
+        <link rel="alternate" type="text/html" href="file:///C:/Users/pc7/Desktop/Pedro%20DAM1/LMYSI/Cozas%20de%20visual/RSS/RSS/Pagina%20de%20prueba.html"/>
         <updated>Mon, 13 Jan 2020</updated>
         <author>
         <name>Pedro Fernández</name>
